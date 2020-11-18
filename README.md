@@ -6,4 +6,4 @@
 
 
 
-le dossier contient le projet récursif (existe deux fichiers l'une sur la solution de l'algorithme de reine et l'autre sur la visualisation de la solution de Reine) et l'algorithme de tri  
+le dossier contient le projet Nreines sur le theme récursif (existe deux fichiers l'une sur la solution de l'algorithme de reine et l'autre sur la visualisation de la solution de Reine) et l'algorithme de tri  
